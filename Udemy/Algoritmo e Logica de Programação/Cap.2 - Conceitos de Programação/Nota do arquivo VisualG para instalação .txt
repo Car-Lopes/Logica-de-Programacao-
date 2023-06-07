@@ -1,0 +1,6 @@
+baixar o VisualG 
+https://sourceforge.net/projects/visualg30/
+
+é preciso descompactar o arquivo com o Winrar ou 7Zip 
+depois copiar o arquivo para maquina 
+entra na pasta extraida e executar o arquivo visualg30.exe 
