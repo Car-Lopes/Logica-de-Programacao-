@@ -28,7 +28,7 @@ Inicio
                escreval("SOMA = ", soma)
                
             senao
-                x <- (x + 1)
+                x <- x + 1
                 enquanto i < 5 faca
                    i <- i + 1
                    soma <- soma + x

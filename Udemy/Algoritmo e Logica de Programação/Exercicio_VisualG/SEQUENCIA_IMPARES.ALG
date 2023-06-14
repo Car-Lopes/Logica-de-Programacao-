@@ -3,7 +3,7 @@ Algoritmo "sequencia_impares"
 //um valor por linha, inclusive o X, se for o caso
 
 Var
-   x,i,mostre : inteiro
+   x,i : inteiro
 
 Inicio
       escreva("Digite o valor de X: ")
