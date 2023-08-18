@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1689876426 source:c:\users\rafael.prado\desktop\logica-de-programacao-\udemy\c\exercicios\idade\main.c
+	<stdio.h>
+	<stdlib.h>
+

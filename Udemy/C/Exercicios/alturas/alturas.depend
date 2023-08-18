@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1691091498 source:c:\users\rafael.prado\desktop\logica-de-programacao-\udemy\c\exercicios\alturas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

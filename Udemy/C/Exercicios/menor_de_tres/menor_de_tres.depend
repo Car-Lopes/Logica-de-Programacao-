@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690203390 source:c:\users\rafael.prado\desktop\logica-de-programacao-\udemy\c\exercicios\menor_de_tres\main.c
+	<stdio.h>
+	<stdlib.h>
+

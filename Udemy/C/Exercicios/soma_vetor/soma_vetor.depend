@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691082742 source:c:\users\rafael.prado\desktop\logica-de-programacao-\udemy\c\exercicios\soma_vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+
