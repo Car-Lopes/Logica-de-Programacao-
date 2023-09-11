@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693338743 source:c:\users\rafael.prado\desktop\logica-de-programacao-\udemy\c++\exemplo_programa\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+

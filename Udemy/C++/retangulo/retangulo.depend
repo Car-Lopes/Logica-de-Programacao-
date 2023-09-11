@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693594320 source:c:\users\rafael.prado\desktop\logica-de-programacao-\udemy\c++\retangulo\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1693856205 source:c:\users\rafael.prado\desktop\logica-de-programacao-\udemy\c++\exercicios\idades\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<climits>
+
