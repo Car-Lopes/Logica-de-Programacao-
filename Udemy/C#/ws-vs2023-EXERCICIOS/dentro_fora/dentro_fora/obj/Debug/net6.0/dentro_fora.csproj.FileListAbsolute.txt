@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dentro_fora\dentro_fora\bin\Debug\net6.0\dentro_fora.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dentro_fora\dentro_fora\bin\Debug\net6.0\dentro_fora.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dentro_fora\dentro_fora\bin\Debug\net6.0\dentro_fora.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dentro_fora\dentro_fora\bin\Debug\net6.0\dentro_fora.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dentro_fora\dentro_fora\bin\Debug\net6.0\dentro_fora.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dentro_fora\dentro_fora\obj\Debug\net6.0\dentro_fora.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dentro_fora\dentro_fora\obj\Debug\net6.0\dentro_fora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dentro_fora\dentro_fora\obj\Debug\net6.0\dentro_fora.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dentro_fora\dentro_fora\obj\Debug\net6.0\dentro_fora.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dentro_fora\dentro_fora\obj\Debug\net6.0\dentro_fora.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dentro_fora\dentro_fora\obj\Debug\net6.0\dentro_fora.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dentro_fora\dentro_fora\obj\Debug\net6.0\refint\dentro_fora.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dentro_fora\dentro_fora\obj\Debug\net6.0\dentro_fora.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dentro_fora\dentro_fora\obj\Debug\net6.0\dentro_fora.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dentro_fora\dentro_fora\obj\Debug\net6.0\ref\dentro_fora.dll

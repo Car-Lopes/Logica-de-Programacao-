@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_impares\soma_impares\obj\Debug\net6.0\refint\soma_impares.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_impares\soma_impares\obj\Debug\net6.0\ref\soma_impares.dll

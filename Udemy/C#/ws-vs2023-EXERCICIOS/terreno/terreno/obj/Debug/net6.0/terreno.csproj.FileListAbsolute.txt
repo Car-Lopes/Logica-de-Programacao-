@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\terreno\terreno\bin\Debug\net6.0\terreno.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\terreno\terreno\bin\Debug\net6.0\terreno.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\terreno\terreno\bin\Debug\net6.0\terreno.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\terreno\terreno\bin\Debug\net6.0\terreno.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\terreno\terreno\bin\Debug\net6.0\terreno.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\terreno\terreno\obj\Debug\net6.0\terreno.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\terreno\terreno\obj\Debug\net6.0\terreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\terreno\terreno\obj\Debug\net6.0\terreno.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\terreno\terreno\obj\Debug\net6.0\terreno.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\terreno\terreno\obj\Debug\net6.0\terreno.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\terreno\terreno\obj\Debug\net6.0\terreno.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\terreno\terreno\obj\Debug\net6.0\refint\terreno.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\terreno\terreno\obj\Debug\net6.0\terreno.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\terreno\terreno\obj\Debug\net6.0\terreno.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\terreno\terreno\obj\Debug\net6.0\ref\terreno.dll

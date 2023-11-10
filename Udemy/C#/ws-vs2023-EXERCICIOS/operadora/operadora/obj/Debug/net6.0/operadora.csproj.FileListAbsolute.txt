@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\operadora\operadora\bin\Debug\net6.0\operadora.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\operadora\operadora\bin\Debug\net6.0\operadora.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\operadora\operadora\bin\Debug\net6.0\operadora.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\operadora\operadora\bin\Debug\net6.0\operadora.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\operadora\operadora\bin\Debug\net6.0\operadora.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\operadora\operadora\obj\Debug\net6.0\operadora.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\operadora\operadora\obj\Debug\net6.0\operadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\operadora\operadora\obj\Debug\net6.0\operadora.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\operadora\operadora\obj\Debug\net6.0\operadora.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\operadora\operadora\obj\Debug\net6.0\operadora.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\operadora\operadora\obj\Debug\net6.0\operadora.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\operadora\operadora\obj\Debug\net6.0\refint\operadora.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\operadora\operadora\obj\Debug\net6.0\operadora.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\operadora\operadora\obj\Debug\net6.0\operadora.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\operadora\operadora\obj\Debug\net6.0\ref\operadora.dll

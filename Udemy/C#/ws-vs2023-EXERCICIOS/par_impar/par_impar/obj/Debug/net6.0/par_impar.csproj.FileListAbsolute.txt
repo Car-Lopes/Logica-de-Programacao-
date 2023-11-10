@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\par_impar\par_impar\bin\Debug\net6.0\par_impar.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\par_impar\par_impar\bin\Debug\net6.0\par_impar.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\par_impar\par_impar\bin\Debug\net6.0\par_impar.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\par_impar\par_impar\bin\Debug\net6.0\par_impar.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\par_impar\par_impar\bin\Debug\net6.0\par_impar.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\par_impar\par_impar\obj\Debug\net6.0\par_impar.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\par_impar\par_impar\obj\Debug\net6.0\par_impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\par_impar\par_impar\obj\Debug\net6.0\par_impar.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\par_impar\par_impar\obj\Debug\net6.0\par_impar.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\par_impar\par_impar\obj\Debug\net6.0\par_impar.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\par_impar\par_impar\obj\Debug\net6.0\par_impar.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\par_impar\par_impar\obj\Debug\net6.0\refint\par_impar.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\par_impar\par_impar\obj\Debug\net6.0\par_impar.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\par_impar\par_impar\obj\Debug\net6.0\par_impar.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\par_impar\par_impar\obj\Debug\net6.0\ref\par_impar.dll

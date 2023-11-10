@@ -1,0 +1,1 @@
+A IDE Utilizada foi o visual Studio 2022

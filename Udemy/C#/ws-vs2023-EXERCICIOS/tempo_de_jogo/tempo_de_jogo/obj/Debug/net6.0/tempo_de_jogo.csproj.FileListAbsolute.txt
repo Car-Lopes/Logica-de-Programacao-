@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\tempo_de_jogo\tempo_de_jogo\bin\Debug\net6.0\tempo_de_jogo.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\tempo_de_jogo\tempo_de_jogo\bin\Debug\net6.0\tempo_de_jogo.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\tempo_de_jogo\tempo_de_jogo\bin\Debug\net6.0\tempo_de_jogo.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\tempo_de_jogo\tempo_de_jogo\bin\Debug\net6.0\tempo_de_jogo.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\tempo_de_jogo\tempo_de_jogo\bin\Debug\net6.0\tempo_de_jogo.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\tempo_de_jogo\tempo_de_jogo\obj\Debug\net6.0\tempo_de_jogo.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\tempo_de_jogo\tempo_de_jogo\obj\Debug\net6.0\tempo_de_jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\tempo_de_jogo\tempo_de_jogo\obj\Debug\net6.0\tempo_de_jogo.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\tempo_de_jogo\tempo_de_jogo\obj\Debug\net6.0\tempo_de_jogo.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\tempo_de_jogo\tempo_de_jogo\obj\Debug\net6.0\tempo_de_jogo.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\tempo_de_jogo\tempo_de_jogo\obj\Debug\net6.0\tempo_de_jogo.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\tempo_de_jogo\tempo_de_jogo\obj\Debug\net6.0\refint\tempo_de_jogo.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\tempo_de_jogo\tempo_de_jogo\obj\Debug\net6.0\tempo_de_jogo.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\tempo_de_jogo\tempo_de_jogo\obj\Debug\net6.0\tempo_de_jogo.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\tempo_de_jogo\tempo_de_jogo\obj\Debug\net6.0\ref\tempo_de_jogo.dll

@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\troco_verificado\troco_verificado\bin\Debug\net6.0\troco_verificado.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\troco_verificado\troco_verificado\bin\Debug\net6.0\troco_verificado.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\troco_verificado\troco_verificado\bin\Debug\net6.0\troco_verificado.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\troco_verificado\troco_verificado\bin\Debug\net6.0\troco_verificado.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\troco_verificado\troco_verificado\bin\Debug\net6.0\troco_verificado.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\troco_verificado\troco_verificado\obj\Debug\net6.0\troco_verificado.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\troco_verificado\troco_verificado\obj\Debug\net6.0\troco_verificado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\troco_verificado\troco_verificado\obj\Debug\net6.0\troco_verificado.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\troco_verificado\troco_verificado\obj\Debug\net6.0\troco_verificado.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\troco_verificado\troco_verificado\obj\Debug\net6.0\troco_verificado.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\troco_verificado\troco_verificado\obj\Debug\net6.0\troco_verificado.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\troco_verificado\troco_verificado\obj\Debug\net6.0\refint\troco_verificado.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\troco_verificado\troco_verificado\obj\Debug\net6.0\troco_verificado.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\troco_verificado\troco_verificado\obj\Debug\net6.0\troco_verificado.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\troco_verificado\troco_verificado\obj\Debug\net6.0\ref\troco_verificado.dll

@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\coordenadas\coordenadas\bin\Debug\net6.0\coordenadas.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\coordenadas\coordenadas\bin\Debug\net6.0\coordenadas.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\coordenadas\coordenadas\bin\Debug\net6.0\coordenadas.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\coordenadas\coordenadas\bin\Debug\net6.0\coordenadas.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\coordenadas\coordenadas\bin\Debug\net6.0\coordenadas.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\coordenadas\coordenadas\obj\Debug\net6.0\coordenadas.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\coordenadas\coordenadas\obj\Debug\net6.0\coordenadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\coordenadas\coordenadas\obj\Debug\net6.0\coordenadas.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\coordenadas\coordenadas\obj\Debug\net6.0\coordenadas.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\coordenadas\coordenadas\obj\Debug\net6.0\coordenadas.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\coordenadas\coordenadas\obj\Debug\net6.0\coordenadas.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\coordenadas\coordenadas\obj\Debug\net6.0\refint\coordenadas.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\coordenadas\coordenadas\obj\Debug\net6.0\coordenadas.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\coordenadas\coordenadas\obj\Debug\net6.0\coordenadas.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\coordenadas\coordenadas\obj\Debug\net6.0\ref\coordenadas.dll

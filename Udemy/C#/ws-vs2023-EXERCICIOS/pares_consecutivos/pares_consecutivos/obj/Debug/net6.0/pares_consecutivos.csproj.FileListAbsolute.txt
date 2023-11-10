@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\pares_consecutivos\pares_consecutivos\bin\Debug\net6.0\pares_consecutivos.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\pares_consecutivos\pares_consecutivos\bin\Debug\net6.0\pares_consecutivos.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\pares_consecutivos\pares_consecutivos\bin\Debug\net6.0\pares_consecutivos.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\pares_consecutivos\pares_consecutivos\bin\Debug\net6.0\pares_consecutivos.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\pares_consecutivos\pares_consecutivos\bin\Debug\net6.0\pares_consecutivos.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\pares_consecutivos\pares_consecutivos\obj\Debug\net6.0\pares_consecutivos.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\pares_consecutivos\pares_consecutivos\obj\Debug\net6.0\pares_consecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\pares_consecutivos\pares_consecutivos\obj\Debug\net6.0\pares_consecutivos.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\pares_consecutivos\pares_consecutivos\obj\Debug\net6.0\pares_consecutivos.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\pares_consecutivos\pares_consecutivos\obj\Debug\net6.0\pares_consecutivos.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\pares_consecutivos\pares_consecutivos\obj\Debug\net6.0\pares_consecutivos.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\pares_consecutivos\pares_consecutivos\obj\Debug\net6.0\refint\pares_consecutivos.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\pares_consecutivos\pares_consecutivos\obj\Debug\net6.0\pares_consecutivos.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\pares_consecutivos\pares_consecutivos\obj\Debug\net6.0\pares_consecutivos.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\pares_consecutivos\pares_consecutivos\obj\Debug\net6.0\ref\pares_consecutivos.dll

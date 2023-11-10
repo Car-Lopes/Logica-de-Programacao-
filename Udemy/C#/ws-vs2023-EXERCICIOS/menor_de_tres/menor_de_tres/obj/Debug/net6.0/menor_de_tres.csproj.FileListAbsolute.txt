@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\menor_de_tres\menor_de_tres\bin\Debug\net6.0\menor_de_tres.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\menor_de_tres\menor_de_tres\bin\Debug\net6.0\menor_de_tres.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\menor_de_tres\menor_de_tres\bin\Debug\net6.0\menor_de_tres.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\menor_de_tres\menor_de_tres\bin\Debug\net6.0\menor_de_tres.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\menor_de_tres\menor_de_tres\bin\Debug\net6.0\menor_de_tres.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\menor_de_tres\menor_de_tres\obj\Debug\net6.0\refint\menor_de_tres.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\menor_de_tres\menor_de_tres\obj\Debug\net6.0\menor_de_tres.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\menor_de_tres\menor_de_tres\obj\Debug\net6.0\ref\menor_de_tres.dll

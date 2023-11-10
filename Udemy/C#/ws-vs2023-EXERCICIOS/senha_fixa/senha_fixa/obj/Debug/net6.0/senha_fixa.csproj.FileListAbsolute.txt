@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\senha_fixa\senha_fixa\bin\Debug\net6.0\senha_fixa.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\senha_fixa\senha_fixa\bin\Debug\net6.0\senha_fixa.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\senha_fixa\senha_fixa\bin\Debug\net6.0\senha_fixa.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\senha_fixa\senha_fixa\bin\Debug\net6.0\senha_fixa.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\senha_fixa\senha_fixa\bin\Debug\net6.0\senha_fixa.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\senha_fixa\senha_fixa\obj\Debug\net6.0\senha_fixa.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\senha_fixa\senha_fixa\obj\Debug\net6.0\senha_fixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\senha_fixa\senha_fixa\obj\Debug\net6.0\senha_fixa.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\senha_fixa\senha_fixa\obj\Debug\net6.0\senha_fixa.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\senha_fixa\senha_fixa\obj\Debug\net6.0\senha_fixa.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\senha_fixa\senha_fixa\obj\Debug\net6.0\senha_fixa.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\senha_fixa\senha_fixa\obj\Debug\net6.0\refint\senha_fixa.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\senha_fixa\senha_fixa\obj\Debug\net6.0\senha_fixa.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\senha_fixa\senha_fixa\obj\Debug\net6.0\senha_fixa.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\senha_fixa\senha_fixa\obj\Debug\net6.0\ref\senha_fixa.dll
