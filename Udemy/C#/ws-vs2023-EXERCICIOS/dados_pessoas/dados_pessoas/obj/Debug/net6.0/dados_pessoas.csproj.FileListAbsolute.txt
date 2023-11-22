@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dados_pessoas\dados_pessoas\bin\Debug\net6.0\dados_pessoas.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dados_pessoas\dados_pessoas\bin\Debug\net6.0\dados_pessoas.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dados_pessoas\dados_pessoas\bin\Debug\net6.0\dados_pessoas.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dados_pessoas\dados_pessoas\bin\Debug\net6.0\dados_pessoas.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dados_pessoas\dados_pessoas\bin\Debug\net6.0\dados_pessoas.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dados_pessoas\dados_pessoas\obj\Debug\net6.0\dados_pessoas.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dados_pessoas\dados_pessoas\obj\Debug\net6.0\dados_pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dados_pessoas\dados_pessoas\obj\Debug\net6.0\dados_pessoas.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dados_pessoas\dados_pessoas\obj\Debug\net6.0\dados_pessoas.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dados_pessoas\dados_pessoas\obj\Debug\net6.0\dados_pessoas.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dados_pessoas\dados_pessoas\obj\Debug\net6.0\dados_pessoas.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dados_pessoas\dados_pessoas\obj\Debug\net6.0\refint\dados_pessoas.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dados_pessoas\dados_pessoas\obj\Debug\net6.0\dados_pessoas.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dados_pessoas\dados_pessoas\obj\Debug\net6.0\dados_pessoas.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\dados_pessoas\dados_pessoas\obj\Debug\net6.0\ref\dados_pessoas.dll

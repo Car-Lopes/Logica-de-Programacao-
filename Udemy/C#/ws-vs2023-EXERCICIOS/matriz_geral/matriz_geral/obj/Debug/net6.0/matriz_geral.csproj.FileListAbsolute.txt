@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\matriz_geral\matriz_geral\bin\Debug\net6.0\matriz_geral.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\matriz_geral\matriz_geral\bin\Debug\net6.0\matriz_geral.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\matriz_geral\matriz_geral\bin\Debug\net6.0\matriz_geral.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\matriz_geral\matriz_geral\bin\Debug\net6.0\matriz_geral.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\matriz_geral\matriz_geral\bin\Debug\net6.0\matriz_geral.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\matriz_geral\matriz_geral\obj\Debug\net6.0\matriz_geral.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\matriz_geral\matriz_geral\obj\Debug\net6.0\matriz_geral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\matriz_geral\matriz_geral\obj\Debug\net6.0\matriz_geral.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\matriz_geral\matriz_geral\obj\Debug\net6.0\matriz_geral.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\matriz_geral\matriz_geral\obj\Debug\net6.0\matriz_geral.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\matriz_geral\matriz_geral\obj\Debug\net6.0\matriz_geral.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\matriz_geral\matriz_geral\obj\Debug\net6.0\refint\matriz_geral.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\matriz_geral\matriz_geral\obj\Debug\net6.0\matriz_geral.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\matriz_geral\matriz_geral\obj\Debug\net6.0\matriz_geral.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\matriz_geral\matriz_geral\obj\Debug\net6.0\ref\matriz_geral.dll

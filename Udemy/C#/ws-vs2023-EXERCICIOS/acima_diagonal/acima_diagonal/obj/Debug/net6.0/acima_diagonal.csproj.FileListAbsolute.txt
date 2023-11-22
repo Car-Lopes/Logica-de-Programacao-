@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\acima_diagonal\acima_diagonal\bin\Debug\net6.0\acima_diagonal.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\acima_diagonal\acima_diagonal\bin\Debug\net6.0\acima_diagonal.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\acima_diagonal\acima_diagonal\bin\Debug\net6.0\acima_diagonal.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\acima_diagonal\acima_diagonal\bin\Debug\net6.0\acima_diagonal.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\acima_diagonal\acima_diagonal\bin\Debug\net6.0\acima_diagonal.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\acima_diagonal\acima_diagonal\obj\Debug\net6.0\acima_diagonal.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\acima_diagonal\acima_diagonal\obj\Debug\net6.0\acima_diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\acima_diagonal\acima_diagonal\obj\Debug\net6.0\acima_diagonal.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\acima_diagonal\acima_diagonal\obj\Debug\net6.0\acima_diagonal.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\acima_diagonal\acima_diagonal\obj\Debug\net6.0\acima_diagonal.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\acima_diagonal\acima_diagonal\obj\Debug\net6.0\acima_diagonal.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\acima_diagonal\acima_diagonal\obj\Debug\net6.0\refint\acima_diagonal.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\acima_diagonal\acima_diagonal\obj\Debug\net6.0\acima_diagonal.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\acima_diagonal\acima_diagonal\obj\Debug\net6.0\acima_diagonal.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\acima_diagonal\acima_diagonal\obj\Debug\net6.0\ref\acima_diagonal.dll

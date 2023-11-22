@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\mais_velho\mais_velho\bin\Debug\net6.0\mais_velho.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\mais_velho\mais_velho\bin\Debug\net6.0\mais_velho.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\mais_velho\mais_velho\bin\Debug\net6.0\mais_velho.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\mais_velho\mais_velho\bin\Debug\net6.0\mais_velho.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\mais_velho\mais_velho\bin\Debug\net6.0\mais_velho.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\mais_velho\mais_velho\obj\Debug\net6.0\mais_velho.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\mais_velho\mais_velho\obj\Debug\net6.0\mais_velho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\mais_velho\mais_velho\obj\Debug\net6.0\mais_velho.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\mais_velho\mais_velho\obj\Debug\net6.0\mais_velho.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\mais_velho\mais_velho\obj\Debug\net6.0\mais_velho.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\mais_velho\mais_velho\obj\Debug\net6.0\mais_velho.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\mais_velho\mais_velho\obj\Debug\net6.0\refint\mais_velho.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\mais_velho\mais_velho\obj\Debug\net6.0\mais_velho.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\mais_velho\mais_velho\obj\Debug\net6.0\mais_velho.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\mais_velho\mais_velho\obj\Debug\net6.0\ref\mais_velho.dll

@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\maior_posicao\maior_posicao\bin\Debug\net6.0\maior_posicao.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\maior_posicao\maior_posicao\bin\Debug\net6.0\maior_posicao.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\maior_posicao\maior_posicao\bin\Debug\net6.0\maior_posicao.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\maior_posicao\maior_posicao\bin\Debug\net6.0\maior_posicao.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\maior_posicao\maior_posicao\bin\Debug\net6.0\maior_posicao.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\maior_posicao\maior_posicao\obj\Debug\net6.0\maior_posicao.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\maior_posicao\maior_posicao\obj\Debug\net6.0\maior_posicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\maior_posicao\maior_posicao\obj\Debug\net6.0\maior_posicao.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\maior_posicao\maior_posicao\obj\Debug\net6.0\maior_posicao.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\maior_posicao\maior_posicao\obj\Debug\net6.0\maior_posicao.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\maior_posicao\maior_posicao\obj\Debug\net6.0\maior_posicao.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\maior_posicao\maior_posicao\obj\Debug\net6.0\refint\maior_posicao.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\maior_posicao\maior_posicao\obj\Debug\net6.0\maior_posicao.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\maior_posicao\maior_posicao\obj\Debug\net6.0\maior_posicao.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\maior_posicao\maior_posicao\obj\Debug\net6.0\ref\maior_posicao.dll

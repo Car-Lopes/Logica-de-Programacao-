@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_vetores\soma_vetores\bin\Debug\net6.0\soma_vetores.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_vetores\soma_vetores\bin\Debug\net6.0\soma_vetores.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_vetores\soma_vetores\bin\Debug\net6.0\soma_vetores.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_vetores\soma_vetores\bin\Debug\net6.0\soma_vetores.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_vetores\soma_vetores\bin\Debug\net6.0\soma_vetores.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_vetores\soma_vetores\obj\Debug\net6.0\soma_vetores.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_vetores\soma_vetores\obj\Debug\net6.0\soma_vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_vetores\soma_vetores\obj\Debug\net6.0\soma_vetores.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_vetores\soma_vetores\obj\Debug\net6.0\soma_vetores.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_vetores\soma_vetores\obj\Debug\net6.0\soma_vetores.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_vetores\soma_vetores\obj\Debug\net6.0\soma_vetores.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_vetores\soma_vetores\obj\Debug\net6.0\refint\soma_vetores.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_vetores\soma_vetores\obj\Debug\net6.0\soma_vetores.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_vetores\soma_vetores\obj\Debug\net6.0\soma_vetores.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_vetores\soma_vetores\obj\Debug\net6.0\ref\soma_vetores.dll

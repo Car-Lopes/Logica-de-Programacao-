@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_linhas\soma_linhas\bin\Debug\net6.0\soma_linhas.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_linhas\soma_linhas\bin\Debug\net6.0\soma_linhas.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_linhas\soma_linhas\bin\Debug\net6.0\soma_linhas.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_linhas\soma_linhas\bin\Debug\net6.0\soma_linhas.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_linhas\soma_linhas\bin\Debug\net6.0\soma_linhas.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_linhas\soma_linhas\obj\Debug\net6.0\soma_linhas.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_linhas\soma_linhas\obj\Debug\net6.0\soma_linhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_linhas\soma_linhas\obj\Debug\net6.0\soma_linhas.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_linhas\soma_linhas\obj\Debug\net6.0\soma_linhas.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_linhas\soma_linhas\obj\Debug\net6.0\soma_linhas.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_linhas\soma_linhas\obj\Debug\net6.0\soma_linhas.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_linhas\soma_linhas\obj\Debug\net6.0\refint\soma_linhas.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_linhas\soma_linhas\obj\Debug\net6.0\soma_linhas.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_linhas\soma_linhas\obj\Debug\net6.0\soma_linhas.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\soma_linhas\soma_linhas\obj\Debug\net6.0\ref\soma_linhas.dll

@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\abaixo_da_media\abaixo_da_media\bin\Debug\net6.0\abaixo_da_media.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\abaixo_da_media\abaixo_da_media\bin\Debug\net6.0\abaixo_da_media.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\abaixo_da_media\abaixo_da_media\bin\Debug\net6.0\abaixo_da_media.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\abaixo_da_media\abaixo_da_media\bin\Debug\net6.0\abaixo_da_media.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\abaixo_da_media\abaixo_da_media\bin\Debug\net6.0\abaixo_da_media.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\abaixo_da_media\abaixo_da_media\obj\Debug\net6.0\abaixo_da_media.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\abaixo_da_media\abaixo_da_media\obj\Debug\net6.0\abaixo_da_media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\abaixo_da_media\abaixo_da_media\obj\Debug\net6.0\abaixo_da_media.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\abaixo_da_media\abaixo_da_media\obj\Debug\net6.0\abaixo_da_media.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\abaixo_da_media\abaixo_da_media\obj\Debug\net6.0\abaixo_da_media.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\abaixo_da_media\abaixo_da_media\obj\Debug\net6.0\abaixo_da_media.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\abaixo_da_media\abaixo_da_media\obj\Debug\net6.0\refint\abaixo_da_media.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\abaixo_da_media\abaixo_da_media\obj\Debug\net6.0\abaixo_da_media.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\abaixo_da_media\abaixo_da_media\obj\Debug\net6.0\abaixo_da_media.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\ws-vs2023-EXERCICIOS\abaixo_da_media\abaixo_da_media\obj\Debug\net6.0\ref\abaixo_da_media.dll
