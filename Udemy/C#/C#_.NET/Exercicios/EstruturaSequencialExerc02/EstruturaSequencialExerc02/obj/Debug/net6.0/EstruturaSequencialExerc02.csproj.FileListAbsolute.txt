@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaSequencialExerc02\EstruturaSequencialExerc02\bin\Debug\net6.0\EstruturaSequencialExerc02.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaSequencialExerc02\EstruturaSequencialExerc02\bin\Debug\net6.0\EstruturaSequencialExerc02.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaSequencialExerc02\EstruturaSequencialExerc02\bin\Debug\net6.0\EstruturaSequencialExerc02.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaSequencialExerc02\EstruturaSequencialExerc02\bin\Debug\net6.0\EstruturaSequencialExerc02.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaSequencialExerc02\EstruturaSequencialExerc02\bin\Debug\net6.0\EstruturaSequencialExerc02.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaSequencialExerc02\EstruturaSequencialExerc02\obj\Debug\net6.0\EstruturaSequencialExerc02.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaSequencialExerc02\EstruturaSequencialExerc02\obj\Debug\net6.0\EstruturaSequencialExerc02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaSequencialExerc02\EstruturaSequencialExerc02\obj\Debug\net6.0\EstruturaSequencialExerc02.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaSequencialExerc02\EstruturaSequencialExerc02\obj\Debug\net6.0\EstruturaSequencialExerc02.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaSequencialExerc02\EstruturaSequencialExerc02\obj\Debug\net6.0\EstruturaSequencialExerc02.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaSequencialExerc02\EstruturaSequencialExerc02\obj\Debug\net6.0\EstruturaSequencialExerc02.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaSequencialExerc02\EstruturaSequencialExerc02\obj\Debug\net6.0\refint\EstruturaSequencialExerc02.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaSequencialExerc02\EstruturaSequencialExerc02\obj\Debug\net6.0\EstruturaSequencialExerc02.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaSequencialExerc02\EstruturaSequencialExerc02\obj\Debug\net6.0\EstruturaSequencialExerc02.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaSequencialExerc02\EstruturaSequencialExerc02\obj\Debug\net6.0\ref\EstruturaSequencialExerc02.dll

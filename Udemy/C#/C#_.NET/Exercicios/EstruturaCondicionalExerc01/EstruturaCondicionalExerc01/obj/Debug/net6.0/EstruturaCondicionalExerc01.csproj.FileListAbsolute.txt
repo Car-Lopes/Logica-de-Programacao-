@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaCondicionalExerc01\EstruturaCondicionalExerc01\bin\Debug\net6.0\EstruturaCondicionalExerc01.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaCondicionalExerc01\EstruturaCondicionalExerc01\bin\Debug\net6.0\EstruturaCondicionalExerc01.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaCondicionalExerc01\EstruturaCondicionalExerc01\bin\Debug\net6.0\EstruturaCondicionalExerc01.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaCondicionalExerc01\EstruturaCondicionalExerc01\bin\Debug\net6.0\EstruturaCondicionalExerc01.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaCondicionalExerc01\EstruturaCondicionalExerc01\bin\Debug\net6.0\EstruturaCondicionalExerc01.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaCondicionalExerc01\EstruturaCondicionalExerc01\obj\Debug\net6.0\EstruturaCondicionalExerc01.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaCondicionalExerc01\EstruturaCondicionalExerc01\obj\Debug\net6.0\EstruturaCondicionalExerc01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaCondicionalExerc01\EstruturaCondicionalExerc01\obj\Debug\net6.0\EstruturaCondicionalExerc01.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaCondicionalExerc01\EstruturaCondicionalExerc01\obj\Debug\net6.0\EstruturaCondicionalExerc01.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaCondicionalExerc01\EstruturaCondicionalExerc01\obj\Debug\net6.0\EstruturaCondicionalExerc01.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaCondicionalExerc01\EstruturaCondicionalExerc01\obj\Debug\net6.0\EstruturaCondicionalExerc01.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaCondicionalExerc01\EstruturaCondicionalExerc01\obj\Debug\net6.0\refint\EstruturaCondicionalExerc01.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaCondicionalExerc01\EstruturaCondicionalExerc01\obj\Debug\net6.0\EstruturaCondicionalExerc01.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaCondicionalExerc01\EstruturaCondicionalExerc01\obj\Debug\net6.0\EstruturaCondicionalExerc01.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaCondicionalExerc01\EstruturaCondicionalExerc01\obj\Debug\net6.0\ref\EstruturaCondicionalExerc01.dll

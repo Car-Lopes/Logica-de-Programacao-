@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaWhileExerc01\EstruturaWhileExerc01\bin\Debug\net6.0\EstruturaWhileExerc01.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaWhileExerc01\EstruturaWhileExerc01\bin\Debug\net6.0\EstruturaWhileExerc01.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaWhileExerc01\EstruturaWhileExerc01\bin\Debug\net6.0\EstruturaWhileExerc01.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaWhileExerc01\EstruturaWhileExerc01\bin\Debug\net6.0\EstruturaWhileExerc01.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaWhileExerc01\EstruturaWhileExerc01\bin\Debug\net6.0\EstruturaWhileExerc01.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaWhileExerc01\EstruturaWhileExerc01\obj\Debug\net6.0\EstruturaWhileExerc01.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaWhileExerc01\EstruturaWhileExerc01\obj\Debug\net6.0\EstruturaWhileExerc01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaWhileExerc01\EstruturaWhileExerc01\obj\Debug\net6.0\EstruturaWhileExerc01.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaWhileExerc01\EstruturaWhileExerc01\obj\Debug\net6.0\EstruturaWhileExerc01.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaWhileExerc01\EstruturaWhileExerc01\obj\Debug\net6.0\EstruturaWhileExerc01.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaWhileExerc01\EstruturaWhileExerc01\obj\Debug\net6.0\EstruturaWhileExerc01.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaWhileExerc01\EstruturaWhileExerc01\obj\Debug\net6.0\refint\EstruturaWhileExerc01.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaWhileExerc01\EstruturaWhileExerc01\obj\Debug\net6.0\EstruturaWhileExerc01.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaWhileExerc01\EstruturaWhileExerc01\obj\Debug\net6.0\EstruturaWhileExerc01.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaWhileExerc01\EstruturaWhileExerc01\obj\Debug\net6.0\ref\EstruturaWhileExerc01.dll

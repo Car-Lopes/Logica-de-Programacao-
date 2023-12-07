@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaForExerc07\EstruturaForExerc07\bin\Debug\net6.0\EstruturaForExerc07.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaForExerc07\EstruturaForExerc07\bin\Debug\net6.0\EstruturaForExerc07.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaForExerc07\EstruturaForExerc07\bin\Debug\net6.0\EstruturaForExerc07.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaForExerc07\EstruturaForExerc07\bin\Debug\net6.0\EstruturaForExerc07.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaForExerc07\EstruturaForExerc07\bin\Debug\net6.0\EstruturaForExerc07.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaForExerc07\EstruturaForExerc07\obj\Debug\net6.0\EstruturaForExerc07.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaForExerc07\EstruturaForExerc07\obj\Debug\net6.0\EstruturaForExerc07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaForExerc07\EstruturaForExerc07\obj\Debug\net6.0\EstruturaForExerc07.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaForExerc07\EstruturaForExerc07\obj\Debug\net6.0\EstruturaForExerc07.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaForExerc07\EstruturaForExerc07\obj\Debug\net6.0\EstruturaForExerc07.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaForExerc07\EstruturaForExerc07\obj\Debug\net6.0\EstruturaForExerc07.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaForExerc07\EstruturaForExerc07\obj\Debug\net6.0\refint\EstruturaForExerc07.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaForExerc07\EstruturaForExerc07\obj\Debug\net6.0\EstruturaForExerc07.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaForExerc07\EstruturaForExerc07\obj\Debug\net6.0\EstruturaForExerc07.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\EstruturaForExerc07\EstruturaForExerc07\obj\Debug\net6.0\ref\EstruturaForExerc07.dll

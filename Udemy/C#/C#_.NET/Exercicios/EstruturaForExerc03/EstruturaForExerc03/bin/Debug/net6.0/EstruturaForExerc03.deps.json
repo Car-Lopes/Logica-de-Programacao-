@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EstruturaForExerc03/1.0.0": {
+        "runtime": {
+          "EstruturaForExerc03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EstruturaForExerc03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
