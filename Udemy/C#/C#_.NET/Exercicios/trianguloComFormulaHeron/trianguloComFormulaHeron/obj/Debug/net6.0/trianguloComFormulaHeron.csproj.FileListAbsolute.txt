@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\trianguloComFormulaHeron\trianguloComFormulaHeron\bin\Debug\net6.0\trianguloComFormulaHeron.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\trianguloComFormulaHeron\trianguloComFormulaHeron\bin\Debug\net6.0\trianguloComFormulaHeron.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\trianguloComFormulaHeron\trianguloComFormulaHeron\bin\Debug\net6.0\trianguloComFormulaHeron.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\trianguloComFormulaHeron\trianguloComFormulaHeron\bin\Debug\net6.0\trianguloComFormulaHeron.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\trianguloComFormulaHeron\trianguloComFormulaHeron\bin\Debug\net6.0\trianguloComFormulaHeron.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\trianguloComFormulaHeron\trianguloComFormulaHeron\obj\Debug\net6.0\trianguloComFormulaHeron.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\trianguloComFormulaHeron\trianguloComFormulaHeron\obj\Debug\net6.0\trianguloComFormulaHeron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\trianguloComFormulaHeron\trianguloComFormulaHeron\obj\Debug\net6.0\trianguloComFormulaHeron.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\trianguloComFormulaHeron\trianguloComFormulaHeron\obj\Debug\net6.0\trianguloComFormulaHeron.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\trianguloComFormulaHeron\trianguloComFormulaHeron\obj\Debug\net6.0\trianguloComFormulaHeron.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\trianguloComFormulaHeron\trianguloComFormulaHeron\obj\Debug\net6.0\trianguloComFormulaHeron.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\trianguloComFormulaHeron\trianguloComFormulaHeron\obj\Debug\net6.0\refint\trianguloComFormulaHeron.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\trianguloComFormulaHeron\trianguloComFormulaHeron\obj\Debug\net6.0\trianguloComFormulaHeron.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\trianguloComFormulaHeron\trianguloComFormulaHeron\obj\Debug\net6.0\trianguloComFormulaHeron.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\trianguloComFormulaHeron\trianguloComFormulaHeron\obj\Debug\net6.0\ref\trianguloComFormulaHeron.dll

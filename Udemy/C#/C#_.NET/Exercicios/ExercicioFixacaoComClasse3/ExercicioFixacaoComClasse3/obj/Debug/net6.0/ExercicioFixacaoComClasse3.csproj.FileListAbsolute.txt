@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ExercicioFixacaoComClasse3\ExercicioFixacaoComClasse3\bin\Debug\net6.0\ExercicioFixacaoComClasse3.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ExercicioFixacaoComClasse3\ExercicioFixacaoComClasse3\bin\Debug\net6.0\ExercicioFixacaoComClasse3.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ExercicioFixacaoComClasse3\ExercicioFixacaoComClasse3\bin\Debug\net6.0\ExercicioFixacaoComClasse3.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ExercicioFixacaoComClasse3\ExercicioFixacaoComClasse3\bin\Debug\net6.0\ExercicioFixacaoComClasse3.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ExercicioFixacaoComClasse3\ExercicioFixacaoComClasse3\bin\Debug\net6.0\ExercicioFixacaoComClasse3.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ExercicioFixacaoComClasse3\ExercicioFixacaoComClasse3\obj\Debug\net6.0\ExercicioFixacaoComClasse3.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ExercicioFixacaoComClasse3\ExercicioFixacaoComClasse3\obj\Debug\net6.0\ExercicioFixacaoComClasse3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ExercicioFixacaoComClasse3\ExercicioFixacaoComClasse3\obj\Debug\net6.0\ExercicioFixacaoComClasse3.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ExercicioFixacaoComClasse3\ExercicioFixacaoComClasse3\obj\Debug\net6.0\ExercicioFixacaoComClasse3.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ExercicioFixacaoComClasse3\ExercicioFixacaoComClasse3\obj\Debug\net6.0\ExercicioFixacaoComClasse3.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ExercicioFixacaoComClasse3\ExercicioFixacaoComClasse3\obj\Debug\net6.0\ExercicioFixacaoComClasse3.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ExercicioFixacaoComClasse3\ExercicioFixacaoComClasse3\obj\Debug\net6.0\refint\ExercicioFixacaoComClasse3.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ExercicioFixacaoComClasse3\ExercicioFixacaoComClasse3\obj\Debug\net6.0\ExercicioFixacaoComClasse3.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ExercicioFixacaoComClasse3\ExercicioFixacaoComClasse3\obj\Debug\net6.0\ExercicioFixacaoComClasse3.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ExercicioFixacaoComClasse3\ExercicioFixacaoComClasse3\obj\Debug\net6.0\ref\ExercicioFixacaoComClasse3.dll

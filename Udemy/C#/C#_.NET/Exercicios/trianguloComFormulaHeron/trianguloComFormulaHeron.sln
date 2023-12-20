@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trianguloComFormulaHeron", "trianguloComFormulaHeron\trianguloComFormulaHeron.csproj", "{5BA0BD99-8521-46FA-93C2-778D86C31CFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BA0BD99-8521-46FA-93C2-778D86C31CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA0BD99-8521-46FA-93C2-778D86C31CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA0BD99-8521-46FA-93C2-778D86C31CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA0BD99-8521-46FA-93C2-778D86C31CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {054DD6A7-3AB7-4A84-9D49-93822694E29C}
+	EndGlobalSection
+EndGlobal
