@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net6.0\ConversorDeMoedas.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\refint\ConversorDeMoedas.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ConversorDeMoedas.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net6.0\ref\ConversorDeMoedas.dll

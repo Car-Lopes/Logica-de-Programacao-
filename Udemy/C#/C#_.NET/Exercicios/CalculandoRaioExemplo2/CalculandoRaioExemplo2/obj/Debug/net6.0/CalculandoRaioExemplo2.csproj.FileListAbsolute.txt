@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CalculandoRaioExemplo2\CalculandoRaioExemplo2\bin\Debug\net6.0\CalculandoRaioExemplo2.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CalculandoRaioExemplo2\CalculandoRaioExemplo2\bin\Debug\net6.0\CalculandoRaioExemplo2.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CalculandoRaioExemplo2\CalculandoRaioExemplo2\bin\Debug\net6.0\CalculandoRaioExemplo2.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CalculandoRaioExemplo2\CalculandoRaioExemplo2\bin\Debug\net6.0\CalculandoRaioExemplo2.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CalculandoRaioExemplo2\CalculandoRaioExemplo2\bin\Debug\net6.0\CalculandoRaioExemplo2.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CalculandoRaioExemplo2\CalculandoRaioExemplo2\obj\Debug\net6.0\CalculandoRaioExemplo2.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CalculandoRaioExemplo2\CalculandoRaioExemplo2\obj\Debug\net6.0\CalculandoRaioExemplo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CalculandoRaioExemplo2\CalculandoRaioExemplo2\obj\Debug\net6.0\CalculandoRaioExemplo2.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CalculandoRaioExemplo2\CalculandoRaioExemplo2\obj\Debug\net6.0\CalculandoRaioExemplo2.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CalculandoRaioExemplo2\CalculandoRaioExemplo2\obj\Debug\net6.0\CalculandoRaioExemplo2.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CalculandoRaioExemplo2\CalculandoRaioExemplo2\obj\Debug\net6.0\CalculandoRaioExemplo2.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CalculandoRaioExemplo2\CalculandoRaioExemplo2\obj\Debug\net6.0\refint\CalculandoRaioExemplo2.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CalculandoRaioExemplo2\CalculandoRaioExemplo2\obj\Debug\net6.0\CalculandoRaioExemplo2.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CalculandoRaioExemplo2\CalculandoRaioExemplo2\obj\Debug\net6.0\CalculandoRaioExemplo2.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CalculandoRaioExemplo2\CalculandoRaioExemplo2\obj\Debug\net6.0\ref\CalculandoRaioExemplo2.dll
