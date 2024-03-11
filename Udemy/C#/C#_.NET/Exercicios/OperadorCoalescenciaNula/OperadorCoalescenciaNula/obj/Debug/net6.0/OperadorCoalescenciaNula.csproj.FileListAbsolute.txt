@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\OperadorCoalescenciaNula\OperadorCoalescenciaNula\bin\Debug\net6.0\OperadorCoalescenciaNula.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\OperadorCoalescenciaNula\OperadorCoalescenciaNula\bin\Debug\net6.0\OperadorCoalescenciaNula.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\OperadorCoalescenciaNula\OperadorCoalescenciaNula\bin\Debug\net6.0\OperadorCoalescenciaNula.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\OperadorCoalescenciaNula\OperadorCoalescenciaNula\bin\Debug\net6.0\OperadorCoalescenciaNula.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\OperadorCoalescenciaNula\OperadorCoalescenciaNula\bin\Debug\net6.0\OperadorCoalescenciaNula.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net6.0\OperadorCoalescenciaNula.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net6.0\OperadorCoalescenciaNula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net6.0\OperadorCoalescenciaNula.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net6.0\OperadorCoalescenciaNula.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net6.0\OperadorCoalescenciaNula.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net6.0\OperadorCoalescenciaNula.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net6.0\refint\OperadorCoalescenciaNula.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net6.0\OperadorCoalescenciaNula.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net6.0\OperadorCoalescenciaNula.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\OperadorCoalescenciaNula\OperadorCoalescenciaNula\obj\Debug\net6.0\ref\OperadorCoalescenciaNula.dll

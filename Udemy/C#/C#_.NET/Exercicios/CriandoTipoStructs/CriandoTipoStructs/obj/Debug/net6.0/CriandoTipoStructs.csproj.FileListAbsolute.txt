@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CriandoTipoStructs\CriandoTipoStructs\bin\Debug\net6.0\CriandoTipoStructs.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CriandoTipoStructs\CriandoTipoStructs\bin\Debug\net6.0\CriandoTipoStructs.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CriandoTipoStructs\CriandoTipoStructs\bin\Debug\net6.0\CriandoTipoStructs.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CriandoTipoStructs\CriandoTipoStructs\bin\Debug\net6.0\CriandoTipoStructs.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CriandoTipoStructs\CriandoTipoStructs\bin\Debug\net6.0\CriandoTipoStructs.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CriandoTipoStructs\CriandoTipoStructs\obj\Debug\net6.0\CriandoTipoStructs.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CriandoTipoStructs\CriandoTipoStructs\obj\Debug\net6.0\CriandoTipoStructs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CriandoTipoStructs\CriandoTipoStructs\obj\Debug\net6.0\CriandoTipoStructs.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CriandoTipoStructs\CriandoTipoStructs\obj\Debug\net6.0\CriandoTipoStructs.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CriandoTipoStructs\CriandoTipoStructs\obj\Debug\net6.0\CriandoTipoStructs.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CriandoTipoStructs\CriandoTipoStructs\obj\Debug\net6.0\CriandoTipoStructs.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CriandoTipoStructs\CriandoTipoStructs\obj\Debug\net6.0\refint\CriandoTipoStructs.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CriandoTipoStructs\CriandoTipoStructs\obj\Debug\net6.0\CriandoTipoStructs.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CriandoTipoStructs\CriandoTipoStructs\obj\Debug\net6.0\CriandoTipoStructs.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\CriandoTipoStructs\CriandoTipoStructs\obj\Debug\net6.0\ref\CriandoTipoStructs.dll

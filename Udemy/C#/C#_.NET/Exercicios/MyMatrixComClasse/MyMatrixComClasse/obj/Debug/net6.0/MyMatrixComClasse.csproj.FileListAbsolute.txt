@@ -1,0 +1,15 @@
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\MyMatrixComClasse\MyMatrixComClasse\bin\Debug\net6.0\MyMatrixComClasse.exe
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\MyMatrixComClasse\MyMatrixComClasse\bin\Debug\net6.0\MyMatrixComClasse.deps.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\MyMatrixComClasse\MyMatrixComClasse\bin\Debug\net6.0\MyMatrixComClasse.runtimeconfig.json
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\MyMatrixComClasse\MyMatrixComClasse\bin\Debug\net6.0\MyMatrixComClasse.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\MyMatrixComClasse\MyMatrixComClasse\bin\Debug\net6.0\MyMatrixComClasse.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\MyMatrixComClasse\MyMatrixComClasse\obj\Debug\net6.0\MyMatrixComClasse.csproj.AssemblyReference.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\MyMatrixComClasse\MyMatrixComClasse\obj\Debug\net6.0\MyMatrixComClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\MyMatrixComClasse\MyMatrixComClasse\obj\Debug\net6.0\MyMatrixComClasse.AssemblyInfoInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\MyMatrixComClasse\MyMatrixComClasse\obj\Debug\net6.0\MyMatrixComClasse.AssemblyInfo.cs
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\MyMatrixComClasse\MyMatrixComClasse\obj\Debug\net6.0\MyMatrixComClasse.csproj.CoreCompileInputs.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\MyMatrixComClasse\MyMatrixComClasse\obj\Debug\net6.0\MyMatrixComClasse.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\MyMatrixComClasse\MyMatrixComClasse\obj\Debug\net6.0\refint\MyMatrixComClasse.dll
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\MyMatrixComClasse\MyMatrixComClasse\obj\Debug\net6.0\MyMatrixComClasse.pdb
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\MyMatrixComClasse\MyMatrixComClasse\obj\Debug\net6.0\MyMatrixComClasse.genruntimeconfig.cache
+C:\Users\rafael.prado\Desktop\Logica-de-Programacao-\Udemy\C#\C#_.NET\Exercicios\MyMatrixComClasse\MyMatrixComClasse\obj\Debug\net6.0\ref\MyMatrixComClasse.dll
